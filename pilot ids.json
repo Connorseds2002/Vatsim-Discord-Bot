@@ -1,0 +1,58 @@
+{
+    "-1": {
+        "Rating":"SUS",
+        "Name":"Suspended"
+    },
+    "0":{
+        "Rating": "OBS",
+        "name": "Oberver"
+    },
+    "1":{
+        "Rating": "P1",
+        "name": "Online Pilot"
+    },
+    "2":{
+        "Rating": "P2",
+        "name": "Flight Fundamentals"
+    },
+    "3":{
+        "Rating": "P3",
+        "name": "VFR Pilot"
+    },
+    "4":{
+        "Rating": "P4",
+        "name": "IFR Pilot"
+    },
+    "5":{
+        "Rating": "P5",
+        "name": "Advanced IFR Pilot "
+    },
+    "6":{
+        "Rating": "P6",
+        "name": "Insturctor"
+    },
+    "7":{
+        "Rating": "P7",
+        "name": "Insturctor"
+    },
+    "8":{
+        "Rating": "P8",
+        "name": "Insturctor"
+    },
+    "9":{
+        "Rating": "P9",
+        "name": "Insturctor"
+    },
+    "10":{
+        "Rating": "P10",
+        "name": "Insturctor"
+    },
+    "11":{
+        "Rating": "P11",
+        "name": "Insturctor"
+    },
+    "12":{
+        "Rating": "P12",
+        "name": "Insturctor"
+    }
+}

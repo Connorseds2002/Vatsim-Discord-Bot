@@ -1,0 +1,58 @@
+{
+    "-1": {
+        "Rating":"SUS",
+        "Name":"Suspended"
+    },
+    "0":{
+        "Rating": "nul",
+        "name": "nul"
+    },
+    "1":{
+        "Rating": "OBS",
+        "name": "Oberver"
+    },
+    "2":{
+        "Rating": "S1",
+        "name": "Student"
+    },
+    "3":{
+        "Rating": "S2",
+        "name": "Student 2"
+    },
+    "4":{
+        "Rating": "S3",
+        "name": "Student 3"
+    },
+    "5":{
+        "Rating": "C1",
+        "name": "Controler 1"
+    },
+    "6":{
+        "Rating": "C2",
+        "name": "Controler 2"
+    },
+    "7":{
+        "Rating": "C3",
+        "name": "Controler 3"
+    },
+    "8":{
+        "Rating": "I1",
+        "name": "Insturctor 1"
+    },
+    "9":{
+        "Rating": "I2",
+        "name": "Insturctor 2"
+    },
+    "10":{
+        "Rating": "I3",
+        "name": "Insturctor 3"
+    },
+    "11":{
+        "Rating": "SUP",
+        "name": "Supervicor"
+    },
+    "12":{
+        "Rating": "ADM",
+        "name": "Admistrator"
+    }
+}
